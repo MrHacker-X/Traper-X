@@ -18,6 +18,8 @@
     + Servo.net
     + Ngrok.io
 
+![photo](https://github.com/MrHacker-X/Traper-X/blob/main/img/firstlook.jpg)
+
 ## Recommendation:
 + If you will ask me for it, which one port forwarding is better then I'll recommend you 'Ngeok.io', Because ngrok is very easy to create a realistic phishing page.
 
@@ -33,14 +35,16 @@
 
 ### Single Line Installation Command:
 
-``` pkg update && pkg upgrade && pkg install git && git clone https://github.com/MrHacker-X/Traper-X.git/ && cd Traper-X && chmod +x * && bash setup.sh && bash traperx.sh ```
+``` 
+pkg update && pkg upgrade && pkg install git && git clone https://github.com/MrHacker-X/Traper-X.git/ && cd Traper-X && chmod +x * && bash setup.sh && bash traperx.sh 
+```
 
 ## Screenshots:
 
-![photo]()
-![photo]()
-![photo]()
-![photo]()
+![photo](https://github.com/MrHacker-X/Traper-X/blob/main/img/link.jpg)
+![photo](https://github.com/MrHacker-X/Traper-X/blob/main/img/about.jpg)
+![photo](https://github.com/MrHacker-X/Traper-X/blob/main/img/audiofile.jpg)
+![photo](https://github.com/MrHacker-X/Traper-X/blob/main/img/setup.jpg)
 
 ### Connect With Us:
 
