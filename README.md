@@ -50,7 +50,7 @@ pkg update && pkg upgrade && pkg install git && git clone https://github.com/MrH
 
 + [Instagram](https://instagram.com/mrhacker.x/)
 + [Github](https://github.com/MrHacker-X/)
-+ [YouTube](https://youtube.com/c/MrHackerXr/)
++ [YouTube](https://youtube.com/c/MrAlexxx/)
 + [Telegram Channel](https://t.me/mrhackersx/)
 + [Chat With Me](https://t.me/hacker1x/)
 
