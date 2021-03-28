@@ -25,7 +25,7 @@ apt install nodejs
 echo -e "\033[1;92m"
 npm install ngrok -g
 echo -e "\033[1;92m"
-pip install ssh -y
+apt install openssh -y
 echo -e "\033[1;96m ____   __   __ _  ____ 
 (    \ /  \ (  ( \(  __)
  ) D ((  O )/    / ) _) 
