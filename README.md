@@ -21,7 +21,7 @@
 ![photo](https://github.com/MrHacker-X/Traper-X/blob/main/img/firstlook.jpg)
 
 ## Recommendation:
-+ If you will ask me for it, which one port forwarding is better then I'll recommend you 'Ngeok.io', Because ngrok is very easy to create a realistic phishing page.
++ If you will ask me for it, which one port forwarding is better, then I'll recommend you 'Ngrok.io', Because ngrok is very easy to create a realistic phishing page.
 
 ## Installation:
 + ``` pkg update ```
