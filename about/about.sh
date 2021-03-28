@@ -33,7 +33,7 @@ echo -e "\033[1;92m[\033[1;97m#\033[1;92m]\033[1;93m Traper-X: \033[1;92mTraper-
 \033[1;92m[\033[1;97m#\033[1;92m] \033[1;93mMy Social Media ID
 
 \033[1;92m[\033[1;97m1\033[1;92m] Github:
-     (\033[1;97m★\033[1;92m)\033[1;93m Username:\033[1;92m MrHacker-X
+     (\033[1;97m★\033[1;92m)\033[1;93m Username:\033[1;92m Mr AleX
      (\033[1;97m√\033[1;92m)\033[1;93m Profile Link:\033[1;94m https://github.com/MrHacker-X/
 
 \033[1;92m[\033[1;97m2\033[1;92m] Instagram:
@@ -42,7 +42,7 @@ echo -e "\033[1;92m[\033[1;97m#\033[1;92m]\033[1;93m Traper-X: \033[1;92mTraper-
 
 \033[1;92m[\033[1;97m3\033[1;92m] YouTube:
      (\033[1;97m★\033[1;92m)\033[1;93m Channel Name:\033[1;92m MrHacker X
-     (\033[1;97m√\033[1;92m)\033[1;93m Channel Link:\033[1;94m https://youtube.com/c/MrHackerXr/
+     (\033[1;97m√\033[1;92m)\033[1;93m Channel Link:\033[1;94m https://youtube.com/c/MrAlexxx/
 
 \033[1;92m[\033[1;97m4\033[1;92m] Telegram Channel:
      (\033[1;97m★\033[1;92m)\033[1;93m Channel Name:\033[1;92m MrHacker X
