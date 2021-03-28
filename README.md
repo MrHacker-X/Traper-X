@@ -6,16 +6,16 @@
 
 ## Available for:
 + Termux
-+ Linux
++ ~Linux~
 
 ## Tested on:
 + Termux
-+ Linux
++ ~Linux~
 
 ## Port Forwarding:
 + Here you can create phishing link using two different types port forwarding.
 
-    + Servo.net
+    + Serveo.net
     + Ngrok.io
 
 ![photo](https://github.com/MrHacker-X/Traper-X/blob/main/img/firstlook.jpg)
